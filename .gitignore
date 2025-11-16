@@ -1,0 +1,21 @@
+# OS / Editor
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Logs / env
+*.log
+.env
+
+# Node
+node_modules/
+.npm/
+
+# Python
+__pycache__/
+*.pyc
+
+# Build outputs
+/dist/
+/build/
